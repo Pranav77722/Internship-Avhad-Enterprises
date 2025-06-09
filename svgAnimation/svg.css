@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    
+}
+ 
+
+#string {
+    width: 100%;
+    height: 400px;
+   
+    
+}
+
+svg{
+
+}
