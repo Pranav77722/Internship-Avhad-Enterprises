@@ -42,4 +42,4 @@ Edit
 | **Web Usage** | ✅ Optimized for web    | ❌ Slower       |
 | **Performance**| Fast loading           | Slow loading    |
 | **Recommendation** | ✅ **Use for websites** | ❌ Avoid for web  |
-This is the supporting code for [this video](https://youtu.be/lGokKxJ8D2c)
+
